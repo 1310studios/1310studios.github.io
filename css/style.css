@@ -1,0 +1,20 @@
+body{ background-color: #A5876A;}
+#main{
+  margin-top: 150px;
+  justify-content: center;
+  text-align: center;
+}
+h2{
+  font-size: 5em;
+  color: white;
+  font-family: 'Great Vibes', cursive;
+  //font-family: 'Sacramento', cursive;
+  //font-family: 'Bad Script', cursive;
+  //font-family: 'Alex Brush', cursive;
+}
+h2#top{
+  font-size: 8em;
+}
+#profile{
+  border-radius: 50%;
+}
